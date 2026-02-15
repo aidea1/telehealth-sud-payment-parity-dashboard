@@ -1,8 +1,8 @@
-# Telehealth for SUD/MH + Payment Parity Policy Dashboard
+# Telehealth for SUD/MH + Payment Parity Policy Dashboard (Time-aligned)
 
-This repository hosts a static, interactive dashboard (GitHub Pages-ready) that links state-level telehealth utilization with SUD and mental health (MH) service rates and a **time-aligned policy intensity index** built from 14 binary telehealth/payment parity policy features.
+This repository hosts a static, interactive dashboard (GitHub Pages-ready) that links state-level telehealth utilization with SUD and mental health (MH) service rates and a time-aligned policy intensity index built from 14 binary telehealth/payment parity policy features.
 
-The dashboard is generated as a single `index.html` file (no server required) using Plotly.js and an embedded JSON payload produced by the Python build script.
+Live dashboard (GitHub Pages): https://aidea1.github.io/telehealth-sud-payment-parity-dashboard/
 
 ## What this dashboard shows
 
