@@ -46,4 +46,4 @@ The dashboard computes **Policy_Intensity_Recalc** as the sum of these 14 binary
 - Licensed Behavioral Health Providers Allowed
 - Policy Permanent
 
-For more details contact: Akshaya Bhagavathula, PhD | Associate Professor of Epidemiology | North Dakota State University | Fargo, ND| Email: akshaya.bhagavathula@ndsu.edu 
+For more details contact: Akshaya Bhagavathula, PhD | Associate Professor of Epidemiology | North Dakota State University | Fargo, ND | Email: akshaya.bhagavathula@ndsu.edu 
