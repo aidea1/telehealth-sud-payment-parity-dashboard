@@ -1,4 +1,4 @@
-# Telehealth for SUD/MH + Payment Parity Policy Dashboard (Time-aligned)
+# Telehealth for SUD/MH + Payment Parity Policy Dashboard
 
 This repository hosts a static, interactive dashboard (GitHub Pages-ready) that links state-level telehealth utilization with SUD and mental health (MH) service rates and a **time-aligned policy intensity index** built from 14 binary telehealth/payment parity policy features.
 
